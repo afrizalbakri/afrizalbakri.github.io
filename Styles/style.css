@@ -70,6 +70,7 @@ a {
     width: 90%;
   }
 }
+
 /* Buttons */
 .btn {
   padding: 1rem 1.5rem;
@@ -476,4 +477,4 @@ footer {
 
 .footer-icons a:hover svg {
   fill: #000;
-}
+  }
